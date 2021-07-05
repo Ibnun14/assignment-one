@@ -1,3 +1,38 @@
+body{
+    margin: 0;
+}
 section{
     display: flex;
+}
+.half-width{
+    width: 100%;
+    padding-left: 20px;
+}
+.first-div{
+    padding-top: 30px;
+}
+.half-width img{
+    width: 90%;
+    padding-left: 20px;
+    padding-bottom: 110px;
+
+}
+.second-section{
+    background-image: url(images/7.png);
+    padding-left: 300;
+}
+.first-header{
+    font-family: 'Lora', serif;
+    font-size: xx-large;
+}
+.first-para{
+    font-family: 'Lora', serif;
+    text-align: justify;
+}
+.first-button{
+    text-decoration: none;
+    background-color: orangered;
+    color: whitesmoke;
+    border-radius: 12px;
+    padding: 5px 10px;
 }
