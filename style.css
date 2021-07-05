@@ -1,6 +1,11 @@
 body{
     margin: 0;
 }
+.first-thing{
+    text-align: left;
+    font-size: 60px;
+    font-style:inherit;
+}
 section{
     display: flex;
 }
@@ -15,11 +20,10 @@ section{
     width: 90%;
     padding-left: 20px;
     padding-bottom: 110px;
-
 }
 .second-section{
     background-image: url(images/7.png);
-    padding-left: 300;
+    
 }
 .first-header{
     font-family: 'Lora', serif;
@@ -35,4 +39,22 @@ section{
     color: whitesmoke;
     border-radius: 12px;
     padding: 5px 10px;
+}
+#second-image{
+    padding-left: 0;
+    height: 415px;
+}
+.second-para{
+    text-align: justify;
+    padding-right: 20px;
+}
+.second-button{
+    text-decoration: none;
+    background-color: orangered;
+    color: whitesmoke;
+    border-radius: 12px;
+    padding: 5px 10px;
+}
+.header-4{
+    font-weight: lighter;
 }
