@@ -136,3 +136,18 @@ body{
     padding-right: 100px;
     padding-bottom: 20px;
 }
+.form{
+    text-align: center;
+}
+.tikbox{
+    margin-left: 10px;
+}
+.submit{
+    padding: 5px 20px;
+    background-image: linear-gradient( tomato, rgba(230, 207, 165, 0.993));
+    font-weight: bold;
+    color: whitesmoke;
+}
+.form-head{
+    
+}
