@@ -35,7 +35,7 @@ section{
 }
 .first-button{
     text-decoration: none;
-    background-color: orangered;
+    background-image: linear-gradient(135deg, tomato, rgb(211, 184, 135));
     color: whitesmoke;
     border-radius: 12px;
     padding: 5px 10px;
