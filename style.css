@@ -165,5 +165,12 @@ body{
     border-radius:30px;
     margin-top: 50px;
     margin-bottom: 50px;
+}
+.footer-div{
+    text-align: center;
+}
+.footer{
+    background-color: #171717;
+    color:antiquewhite;
     
 }
