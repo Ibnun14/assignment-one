@@ -7,6 +7,11 @@ body{
     font-style:inherit;
     width: 100%;
     text-shadow: 10px 10px 10px tomato;
+    margin-top: -1px;
+}
+.first-section{
+    margin-top: -30px;
+    padding-bottom: -60px;
 }
 #paris{
     text-shadow: 10px 10px 10px gray;
@@ -27,7 +32,8 @@ body{
     padding-bottom: 110px;
 }
 .second-section{
-    background-image: url(images/7.png);   
+    background-image: url(images/7.png);
+    margin-top: -70px;   
 }
 .first-header{
     font-family: 'Lora', serif;
