@@ -97,3 +97,42 @@ body{
     text-align:justify;
     padding: 5px 15px;
 }
+.yuotube-link{
+    text-decoration: none;
+    color: black;
+    padding-left: 35px;
+    font-weight: bold;
+}
+.insta-link{
+    text-decoration: none;
+    color: black;
+    padding-left: 20px;
+    font-weight: bold;
+}
+.fb-link{
+    text-decoration: none;
+    color: black;
+    padding-left: 20px;
+    font-weight: bold;
+}
+.final-container{
+    display: flex;
+    justify-content:center;
+    box-sizing: border-box;
+    box-shadow: 2px 0 20px 20px rgb(230, 233, 232);
+    border-radius:30px;
+    border-radius: 20px;
+    margin: 0 auto;
+}
+.youtube{
+    margin-left: 0;
+    padding-left: 100px;
+}
+.insta{
+    margin-left: 80px;
+}
+.fb{
+    margin-left: 80px;
+    padding-right: 100px;
+    padding-bottom: 20px;
+}
