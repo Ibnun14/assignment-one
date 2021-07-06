@@ -147,7 +147,23 @@ body{
     background-image: linear-gradient( tomato, rgba(230, 207, 165, 0.993));
     font-weight: bold;
     color: whitesmoke;
+    margin-bottom: 20px;
 }
 .form-head{
+    text-align: center;
+    padding-left: 80px;
+    text-decoration: underline;
+    padding-top: 50px;
+}
+.last-section{
+    background-image: url(images/Frame\ 57.jpg);
+    margin: 0;
+}
+.form-div-class{
+    box-sizing: border-box;
+    box-shadow: 2px 0 20px 20px rgb(148, 125, 116);
+    border-radius:30px;
+    margin-top: 50px;
+    margin-bottom: 50px;
     
 }
