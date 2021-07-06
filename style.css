@@ -2,9 +2,14 @@ body{
     margin: 0;
 }
 .first-thing{
-    text-align: left;
+    text-align: center;
     font-size: 60px;
     font-style:inherit;
+    width: 100%;
+    text-shadow: 10px 10px 10px tomato;
+}
+#paris{
+    text-shadow: 10px 10px 10px gray;
 }
 section{
     display: flex;
@@ -22,8 +27,7 @@ section{
     padding-bottom: 110px;
 }
 .second-section{
-    background-image: url(images/7.png);
-    
+    background-image: url(images/7.png);   
 }
 .first-header{
     font-family: 'Lora', serif;
@@ -57,4 +61,31 @@ section{
 }
 .header-4{
     font-weight: lighter;
+}
+.fb-link{
+    margin-left: 800px;
+    padding-top: 58px;
+    color: rgb(224, 153, 127);
+}
+.youtube-link{
+    margin-left: 0;
+    padding-top: 58px;
+    color: rgb(224, 153, 127);
+}
+.menu{
+    text-align: center;
+    color: orangered;
+}
+.menu-para{
+    text-align: justify;
+    padding-left: 410px;
+    padding-right: 380px;
+}
+.three-div{
+    display: flex;
+}
+.card-div1{
+    padding-left: 50px;
+    border:solid;
+    border-radius: 20px;
 }
